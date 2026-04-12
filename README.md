@@ -1,20 +1,13 @@
 ---
 title: My Research Dashboard
-emoji: 🚀
-colorFrom: red
-colorTo: red
-sdk: docker
-app_port: 8501
-tags:
-- streamlit
+emoji: 🔬
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.28.0
+app_file: app.py
 pinned: false
-short_description: Gapminder Explorer
-license: mit
 ---
 
-# Welcome to Streamlit!
-
-Edit `/src/streamlit_app.py` to customize this app to your heart's desire. :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+# My Research Dashboard
+Global health and wealth visualisations using Gapminder data.
