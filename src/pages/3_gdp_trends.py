@@ -69,4 +69,4 @@ else:
     fig.update_layout(xaxis_tickangle=-45)
 
 fig.update_layout(height=500)
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")

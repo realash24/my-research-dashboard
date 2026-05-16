@@ -16,3 +16,4 @@ app_file: app.py
 # My Research Dashboard
 Global health and wealth visualisations using Gapminder data.
 Built on Streamlit FW. Tested locally and deployed to Huggingface spaces as well as Github Repository
+To run locally: streamlit run src/app.py
